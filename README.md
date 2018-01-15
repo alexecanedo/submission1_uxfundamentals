@@ -11,8 +11,9 @@ The following document will contain a list of traits I think I will be successfu
 
 ### Difficulties
 1. The biggest hurdle is memorizing Markdown so that I don't always have to reference a Markdown cheatsheet.
-2. Learning how to use Markdown within code, like Python.
-3. Learning best practices when using Markdown. 
+2. Learning how to use Github.
+3. Learning how to use Markdown within code, like Python.
+4. Learning best practices when using Markdown. 
 
 ### Bloc Goals
 - Gain the technical skills needed to get a job as a UX Designer when I graduate.
